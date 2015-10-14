@@ -1,6 +1,8 @@
 # Microsoft Card Game
 A fun, 2 player Card Game related to, but not affiliated with or endorsed by Microsoft. It can be enjoyed by friends and kin.
 
+# Rules
+
 ## Aim of the game
 To take all the cards off your opponent.
 
@@ -32,3 +34,6 @@ To take all the cards off your opponent.
 * If the number of tiles were equal then each player keeps their cards and places them on the bottom of their decks.
 * Any played power-ups are then discarded for the rest of the game.
 * It remains the starting player's turn, they repeat the first 3 steps.
+
+# Credits
+Thanks to @MSFTY for the original suggestion and for doing most of the Xbox characters.
