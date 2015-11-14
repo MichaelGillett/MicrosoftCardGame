@@ -37,7 +37,7 @@ To take all the cards off your opponent.
 * It remains the starting player's turn and start their turn again.
 
 ###Cloud or Mobile first
-* If the starting player's choice is the same as the opponents' then they take their opponents' card and place the card they played and the opponents' card to bottom of their deck.
+* If the starting player's choice is the same as the opponents' then they choose a trait and follow the rules of the traits.
 * Any played power-ups are then discarded for the rest of the game.
 * It remains the starting player's turn and start their turn again.
 
